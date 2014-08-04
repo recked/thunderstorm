@@ -1,11 +1,16 @@
-Zamiere
+Thunderstorm
 =====================
-Dark theme for Brackets!
+A dark theme for Brackets based off [Zamiere Dark](https://github.com/Brackets-Themes/Zamiere)
 
-![zamiere ss](https://github.com/brackets-themes/zamiere/raw/master/screenshot.png)
 
-Contributors
+Screenshots
 ======
 
-* Kulcsár Kázmér <zamiere@gmail.com>
-* Miguel Castillo <manchagnu@gmail.com>
+### HTML
+![HTML](screenshots/html.png)
+
+### CSS
+![HTML](screenshots/css.png)
+
+### JavaScript
+![HTML](screenshots/js.png)
